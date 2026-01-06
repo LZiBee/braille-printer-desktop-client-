@@ -1,0 +1,844 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-31 22:16+0000\n"
+"PO-Revision-Date: 2025-05-31 23:01+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"desktopbraillerap_doc/manual_basicfeatures/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../basicfeatures.md:1
+msgid "Tour d'horizon des fonctions de DesktopBrailleRAP"
+msgstr "Features tour"
+
+#: ../../basicfeatures.md:5
+msgid "Les options du menu principal"
+msgstr "Main menu options"
+
+#: ../../basicfeatures.md:7
+msgid "Accueil"
+msgstr "Home"
+
+#: ../../basicfeatures.md:8
+msgid "Affiche une page d'information sur le logiciel."
+msgstr "Display information about the software."
+
+#: ../../basicfeatures.md:10 ../../basicfeatures.md:34
+msgid "Fichiers"
+msgstr "Files"
+
+#: ../../basicfeatures.md:11
+msgid ""
+"Affiche les options relatives à l'enregistrement ou la lecture d'un "
+"fichier contenant une composition (extension .brp)"
+msgstr ""
+"Display options related to saving or loading a file containing a "
+"composition (extension .brp)"
+
+#: ../../basicfeatures.md:13 ../../basicfeatures.md:51
+msgid "Import SVG"
+msgstr "SVG Import"
+
+#: ../../basicfeatures.md:14
+msgid "Afficher les options relatives à l'importation d'un fichier SVG"
+msgstr "Display options related to importing an SVG file"
+
+#: ../../basicfeatures.md:16 ../../basicfeatures.md:62
+msgid "Texte"
+msgstr "Text"
+
+#: ../../basicfeatures.md:17
+msgid "Affiche les options relatives à l'ajout de bloc texte"
+msgstr "Display options related to adding text blocks"
+
+#: ../../basicfeatures.md:19 ../../basicfeatures.md:77
+#: ../../basicfeatures.md:89
+msgid "Position"
+msgstr "Position"
+
+#: ../../basicfeatures.md:20
+msgid ""
+"Afficher les options relatives à la position,l'orientation ou l'échelle "
+"des graphiques et des blocs de texte."
+msgstr ""
+"Display options related to the position, orientation or scale of graphics"
+" and text blocks."
+
+#: ../../basicfeatures.md:22
+msgid "Motif"
+msgstr "Pattern"
+
+#: ../../basicfeatures.md:23
+msgid ""
+"Affiche les options relatives à l'association de motif à une couleur de "
+"remplissage ou une couleur de ligne"
+msgstr ""
+"Display options related to associating a pattern to a fill color or "
+"stroke color"
+
+#: ../../basicfeatures.md:25 ../../basicfeatures.md:138
+#: ../../basicfeatures.md:146
+msgid "Imprimer"
+msgstr "Print"
+
+#: ../../basicfeatures.md:26
+msgid ""
+"Afficher un aperçu avant impression ainsi que les options pour imprimer "
+"le document sur une BrailleRAP."
+msgstr ""
+"Display a print preview as well as options to print the document on a "
+"BrailleRAP."
+
+#: ../../basicfeatures.md:28
+msgid "Paramètres"
+msgstr "Options"
+
+#: ../../basicfeatures.md:29
+msgid "Affiche les options relatives à la configuration du logiciel."
+msgstr "Display options related to the software configuration."
+
+#: ../../basicfeatures.md:31 ../../basicfeatures.md:211
+msgid "Données"
+msgstr "Data"
+
+#: ../../basicfeatures.md:32
+msgid "Affiche un résumé de la composition active."
+msgstr "Display a summary of the active composition."
+
+#: ../../basicfeatures.md:36 ../../basicfeatures.md:53
+#: ../../basicfeatures.md:64 ../../basicfeatures.md:79
+#: ../../basicfeatures.md:104 ../../basicfeatures.md:140
+#: ../../basicfeatures.md:154 ../../basicfeatures.md:213
+#: ../../basicfeatures.md:220
+msgid "Introduction"
+msgstr "Introduction"
+
+#: ../../basicfeatures.md:37
+msgid ""
+"L'action de cliquer sur l'option affiche une page relative a "
+"l'enregistrement ou la lecture d'un fichier composition (extension .brp)."
+msgstr ""
+"Clicking on the option displays a page related to saving or loading a "
+"composition file (extension .brp)."
+
+#: ../../basicfeatures.md:39
+msgid "![Capture d'écran de la page fichier](./IMG/formfiles.jpg)"
+msgstr "![Screenshot of file page](./IMG/formfiles.jpg)"
+
+#: ../../basicfeatures.md:39
+msgid "Capture d'écran de la page fichier"
+msgstr "Screenshot of file page"
+
+#: ../../basicfeatures.md:41
+msgid "Bouton *Enregistrer*"
+msgstr "Button *Save*"
+
+#: ../../basicfeatures.md:42
+msgid "Enregistre la composition active en utilisant le nom de fichier actif."
+msgstr "Save the active composition using the active file name."
+
+#: ../../basicfeatures.md:44
+msgid "Bouton *Enregistrer sous...*"
+msgstr "Button *Save as...*"
+
+#: ../../basicfeatures.md:45
+msgid ""
+"Enregistre la composition active en demandant le nom du fichier a l'aide "
+"de la boîte de dialogue de sélection de fichier."
+msgstr ""
+"Saves the active composition by asking a file name using the file "
+"selection dialog."
+
+#: ../../basicfeatures.md:47
+msgid "Bouton *Ouvrir*"
+msgstr "Button *Open*"
+
+#: ../../basicfeatures.md:48
+msgid ""
+"Ouvre le fichier composition sélectionné en demandant le nom du fichier a"
+" l'aide de la boîte de dialogue de sélection de fichier."
+msgstr ""
+"Opens the selected composition file by asking for the file name using the"
+" file selection dialog."
+
+#: ../../basicfeatures.md:55
+msgid ""
+"L'action de cliquer sur l'option \"Import SVG\" permet d'importer un "
+"fichier SVG dans la composition. Le fichier SVG est importé en tant que "
+"bloc et pourra être déplacé, redimensionné, réorienté, supprimé."
+msgstr ""
+"Clicking on the \"Import SVG\" option allows you to import an SVG file "
+"into the composition. The SVG file is imported as a block and can be "
+"moved, resized, reoriented, deleted."
+
+#: ../../basicfeatures.md:57
+msgid "Bouton *Importer*"
+msgstr "Button *Import*"
+
+#: ../../basicfeatures.md:58
+msgid ""
+"Le bouton \"Importer\" affiche la boîte de dialogue de sélection de "
+"fichier. Sélectionnez le fichier SVG que vous souhaitez intégrer à la "
+"composition et cliquer sur le bouton \"Ouvrir\". Le fichier SVG est "
+"importé en tant que bloc et apparait dans la composition sur la partie "
+"gauche de la page."
+msgstr ""
+"The \"Import\" button displays the file selection dialog. Select the SVG "
+"file you want to include in the composition and click the \"Open\" "
+"button. The SVG file is imported as a block and appears in the "
+"composition on the left side of the page."
+
+#: ../../basicfeatures.md:60
+msgid "![Capture d'écran de la page import svg](./IMG/formsvg.jpg)"
+msgstr "![Screenshot of import svg page](./IMG/formsvg.jpg)"
+
+#: ../../basicfeatures.md:60
+msgid "Capture d'écran de la page import svg"
+msgstr "Screenshot of import svg page"
+
+#: ../../basicfeatures.md:65
+msgid ""
+"L'action de cliquer sur le menu \"Texte\" affiche une page relative a la "
+"création d'un bloc de texte."
+msgstr ""
+"Clicking on the \"Text\" menu displays a page related to the creation of "
+"a text block."
+
+#: ../../basicfeatures.md:67
+msgid "Bouton *Ajouter*"
+msgstr "Button *Add*"
+
+#: ../../basicfeatures.md:68
+msgid ""
+"Le bouton *Ajouter* permet d'ajouter un bloc de texte dans le document. "
+"Le texte est ajouté sous forme d'un bloc sur la visualisation de la page "
+"dans la partie gauche. Ce bloc de texte peut être déplacé et orienté. Au "
+"moment de l'impression, le texte sera transcrit en Braille. Les blocs de "
+"texte ne sont pas redimensionables, parce que le Braille est toujours de "
+"taille unique."
+msgstr ""
+"The *Add* button allows you to add a text block to the document. The text"
+" is added as a block on the page visualization in the left part. This "
+"text block can be moved and oriented. At the time of printing, the text "
+"will be transcribed in Braille. Text blocks are not resizable because "
+"Braille is always of unique size."
+
+#: ../../basicfeatures.md:70
+msgid "![Capture d'écran de la page texte](./IMG/formtext.jpg)"
+msgstr "![Text page screenshot](./IMG/formtext.jpg)"
+
+#: ../../basicfeatures.md:70 ../../basicfeatures.md:75
+msgid "Capture d'écran de la page texte"
+msgstr "Text page screenshot"
+
+#: ../../basicfeatures.md:72
+msgid "Bouton *Modifier*"
+msgstr "Button *Modify*"
+
+#: ../../basicfeatures.md:73
+msgid ""
+"En sélectionnant un bloc de texte dans la visualisation sur la partie "
+"gauche, vous pouvez modifier le texte en le modifiant dans la zone de "
+"saisie et en utilisant le bouton *Modifier*"
+msgstr ""
+"By selecting a text block in the visualization on the left side, you can "
+"modify the text by modifying it in the input area and using the *Modify* "
+"button"
+
+#: ../../basicfeatures.md:75
+msgid "![Capture d'écran de la page texte](./IMG/formtext_update.jpg)"
+msgstr "![Text page screenshot](./IMG/formtext_update.jpg)"
+
+#: ../../basicfeatures.md:80
+msgid ""
+"L'action de cliquer sur le menu \"Texte\" affiche une page relative a la "
+"modification de la position des blocs."
+msgstr ""
+"Clicking on the \"Text\" menu displays a page related to blocks position "
+"modification."
+
+#: ../../basicfeatures.md:82
+msgid "![Capture d'écran de la page position](./IMG/formposition.jpg)"
+msgstr "![Position page screenshot](./IMG/formposition.jpg)"
+
+#: ../../basicfeatures.md:82 ../../basicfeatures.md:87
+#: ../../basicfeatures.md:95 ../../basicfeatures.md:100
+msgid "Capture d'écran de la page position"
+msgstr "Position page screenshot"
+
+#: ../../basicfeatures.md:84 ../../basicfeatures.md:109
+msgid "Utilisation"
+msgstr "Usage"
+
+#: ../../basicfeatures.md:85
+msgid ""
+"Sélectionner un bloc dans la visualisation sur la partie gauche. Le "
+"formulaire à droite affiche alors la position du bloc sur la page, sa "
+"taille, son orientation (angle) et son echelle en %."
+msgstr ""
+"Select a block in the visualization on the left side. The form on the "
+"right then displays the position of the block on the document, its size, "
+"orientation (angle) and scale in %."
+
+#: ../../basicfeatures.md:87
+msgid "![Capture d'écran de la page position](./IMG/formposition_select.jpg)"
+msgstr "![Position page screenshot](./IMG/formposition_select.jpg)"
+
+#: ../../basicfeatures.md:90
+msgid ""
+"Après avoir sélectionné un bloc dans la partie gauche, entrer une "
+"nouvelle position dans les champs \"X\" et \"Y\" puis utiliser le bouton "
+"*Fixer la position* pour déplacer le bloc à la position voulue."
+msgstr ""
+"After selecting a block in the left part, enter a new position in the "
+"\"X\" and \"Y\" fields then use the *Set position* button to move the "
+"block to the desired position."
+
+#: ../../basicfeatures.md:92
+msgid "Angle"
+msgstr "Angle"
+
+#: ../../basicfeatures.md:93
+msgid ""
+"Après avoir sélectionné un bloc dans la partie gauche, entrer une "
+"nouvelle position dans le champ *Angle* puis utiliser le bouton *Fixer "
+"l'Angle* pour orienter le bloc suivant l'angle souhaité."
+msgstr ""
+"After selecting a block in the left part, enter a new angle in the "
+"*Angle* field then use the *Set angle* button to orient the block "
+"according to the desired angle."
+
+#: ../../basicfeatures.md:95
+msgid "![Capture d'écran de la page position](./IMG/formposition_angle.jpg)"
+msgstr "![Position page screenshot](./IMG/formposition_angle.jpg)"
+
+#: ../../basicfeatures.md:97
+msgid "Echelle"
+msgstr "Scale"
+
+#: ../../basicfeatures.md:98
+#, python-format
+msgid ""
+"Après avoir sélectionné un bloc dans la partie gauche, entrer une "
+"nouvelle echelle en % dans le champ *Echelle* puis utiliser le bouton "
+"*Fixer l'Echelle* pour modifier la taille du bloc."
+msgstr ""
+"After selecting a block in the left part, enter a new scale in % in the "
+"*Scale* field then use the *Set scale* button to modify the size of the "
+"block."
+
+#: ../../basicfeatures.md:100
+msgid "![Capture d'écran de la page position](./IMG/formposition_scale.jpg)"
+msgstr "![Position page screenshot](./IMG/formposition_scale.jpg)"
+
+#: ../../basicfeatures.md:102
+msgid "Motifs"
+msgstr "Patterns"
+
+#: ../../basicfeatures.md:105
+msgid ""
+"L'action de cliquer sur le menu \"Motifs\" affiche une page relative a "
+"l'association de motifs tactiles avec une couleur de remplissage ou une "
+"couleur de contour."
+msgstr ""
+"Clicking on the \"Patterns\" menu displays a page related to the "
+"association of tactile patterns with a fill color or a stroke color."
+
+#: ../../basicfeatures.md:107
+msgid "![Capture d'écran de la page motif](./IMG/formpattern.jpg)"
+msgstr "![Pattern page screenshot](./IMG/formpattern.jpg)"
+
+#: ../../basicfeatures.md:107 ../../basicfeatures.md:116
+#: ../../basicfeatures.md:120 ../../basicfeatures.md:127
+#: ../../basicfeatures.md:131 ../../basicfeatures.md:135
+#: ../../basicfeatures.md:157 ../../basicfeatures.md:216
+msgid "Capture d'écran de la page motif"
+msgstr "Pattern page screenshot"
+
+#: ../../basicfeatures.md:111
+msgid "Motifs de remplissage"
+msgstr "Filling patterns"
+
+#: ../../basicfeatures.md:112
+msgid ""
+"Les motifs de de remplissage sont utilisés pour remplir de large zone du "
+"dessin, de façon imagée, les motifs de remplissage vont remplacer les "
+"couleurs de remplissage du dessin. Vous pouvez choisir une sélection par "
+"*couleur de contour* ou par *couleur de remplissage*. En fonction de la "
+"sélection, le formulaire affiche la liste des couleurs utilisées dans la "
+"composition. Pour chaque couleur, vous pouvez choisir un motif tactile à "
+"associer."
+msgstr ""
+"Filling patterns are used to fill large areas of the drawing, in an "
+"imaginative way, filling patterns will replace the fill colors of the "
+"drawing. You can choose a selection by *stroke color* or by *fill color*."
+" Depending on the selection, the form displays the list of colors used in"
+" the composition. For each color, you can select a tactile pattern to "
+"associate with."
+
+#: ../../basicfeatures.md:116
+msgid "![Capture d'écran de la page motif](./IMG/formpattern2.jpg)"
+msgstr "![Pattern page screenshot](./IMG/formpattern2.jpg)"
+
+#: ../../basicfeatures.md:118
+msgid ""
+"A tout moment, vous pouvez visualiser le résultat de votre sélection en "
+"cliquant sur le bouton *Imprimer* du menu supérieur."
+msgstr ""
+"At any time, you can display the result of your selection by clicking on "
+"the *Print* button at the top of the menu."
+
+#: ../../basicfeatures.md:120
+msgid "![Capture d'écran de la page motif](./IMG/formpattern3.jpg)"
+msgstr "![Pattern page screenshot](./IMG/formpattern3.jpg)"
+
+#: ../../basicfeatures.md:122
+msgid "Motifs de contour"
+msgstr "Stroke patterns"
+
+#: ../../basicfeatures.md:123
+msgid ""
+"Les motifs de contour sont utilisés pour dessiner des contours de forme, "
+"de façon imagée, les motifs de contour vont remplacer les couleurs de "
+"contour du dessin."
+msgstr ""
+"Stroke patterns are used to draw contours of shapes, in an imaginative "
+"way, stroke patterns will replace the stroke colors of the drawing."
+
+#: ../../basicfeatures.md:125
+msgid ""
+"Par défaut l'option *Forcer les contours* est sélectionnée, cela signifie"
+" que si les formes contenu dans le graphique SVG n'ont pas de contour, "
+"DesktopBrailleRAP créera un contour plein pour l'impression tactile. "
+"C'est ce qui se passe sur l'image de la Girafe dans l'exemple plus haut. "
+"Si sur le même example, on enlève l'option *Forcer les contours*, le "
+"motif de remplissage est conservé, mais il n'y a plus de contour "
+"extérieur sur la girafe."
+msgstr ""
+"By default the *Force stroke edge* option is selected, this means that if"
+" the shapes contained in the SVG graphic do not have an outline, "
+"DesktopBrailleRAP will create a full outline for tactile printing. This "
+"is what happens on the Giraffe image in the example above. If on the same"
+" example, we remove the *Force stroke edge* option, the fill pattern is "
+"preserved, but there is no longer outer outline on the giraffe."
+
+#: ../../basicfeatures.md:127
+msgid "![Capture d'écran de la page motif](./IMG/formpattern4.jpg)"
+msgstr "![Pattern page screenshot](./IMG/formpattern4.jpg)"
+
+#: ../../basicfeatures.md:129
+msgid ""
+"Par contre, si les forme contenue dans le graphique SVG possède des "
+"contours de couleur, la liste des couleurs utilisées est alors affichée "
+"dans le formulaire. Pour chaque couleur, vous pouvez choisir un motif "
+"tactile de ligne à associer."
+msgstr ""
+"However, if the shapes contained in the SVG graphic have a color outline,"
+" the list of colors used is then displayed in the form. For each color, "
+"you can select a line pattern to associate with."
+
+#: ../../basicfeatures.md:131
+msgid "![Capture d'écran de la page motif](./IMG/formpattern5.jpg)"
+msgstr "![Pattern page screenshot](./IMG/formpattern5.jpg)"
+
+#: ../../basicfeatures.md:133
+msgid ""
+"Encore une fois, vous pouvez visualiser le résultat de votre sélection en"
+" cliquant sur le bouton *Imprimer* du menu supérieur."
+msgstr ""
+"Once again, you can display the result of your selection by clicking on the "
+"*Print* button at the top menu."
+
+#: ../../basicfeatures.md:135
+msgid "![Capture d'écran de la page motif](./IMG/formpattern6.jpg)"
+msgstr "![Pattern page screenshot](./IMG/formpattern6.jpg)"
+
+#: ../../basicfeatures.md:141
+msgid ""
+"L'action de cliquer sur le menu *Imprimer* affiche une page relative à "
+"l'embossage du document sur une BrailleRAP."
+msgstr ""
+"Clicking on the \"Text\" menu displays a page related to the creation of "
+"a text block."
+
+#: ../../basicfeatures.md:143
+msgid "Télécharger"
+msgstr "Download"
+
+#: ../../basicfeatures.md:144
+msgid ""
+"Le bouton *Télécharger* permet d'enregistrer la liste des commandes GCODE"
+" dans un fichier. Ce fichier GCODE pourra ensuite être utilisé avec une "
+"BrailleRAP pour embosser la composition. Ceci permet notamment de "
+"modifier le fichier de commandes GCODE manuelement a des fins de tests ou"
+" de personnalisation."
+msgstr ""
+"The *Download* button allows you to save the list of GCODE commands in a "
+"file. This GCODE file can then be used with a BrailleRAP to emboss the "
+"composition. This allows you to manually modify the GCODE file for "
+"testing or customization purposes."
+
+#: ../../basicfeatures.md:147
+msgid ""
+"Le bouton *Imprimer* permet d'envoyer la liste des commandes GCODE a une "
+"BrailleRAP connectée avec cable USB pour embosser la composition visible "
+"dans la partie \"aperçu avant impression\"."
+msgstr ""
+"The *Print* button allows you to send the list of GCODE commands to a "
+"connected BrailleRAP via USB cable to emboss the composition visible in "
+"the \"preview before printing\" section."
+
+#: ../../basicfeatures.md:149
+msgid "Rafraichir"
+msgstr "Update"
+
+#: ../../basicfeatures.md:150
+msgid ""
+"Le bouton *Rafraichir* permet de rafraichir l'aperçu avant impression. "
+"C'est utile si vous avez modifié la composition dans la partie gauche de "
+"l'interface."
+msgstr ""
+"The *Update* button allows you to refresh the preview. This is useful if "
+"you have modified the composition in the left part of the interface."
+
+#: ../../basicfeatures.md:152
+msgid "Options"
+msgstr "Options"
+
+#: ../../basicfeatures.md:155
+msgid ""
+"L'action de cliquer sur le menu *Options* affiche une page relative au "
+"paramétrage des différentes options de l'application : Taille du papier, "
+"standard Braille, langue de l'application ..."
+msgstr ""
+"Clicking on the *Options* menu displays a page related to the "
+"configuration of the different parameters of the application: Paper size,"
+" Braille standard, application language ..."
+
+#: ../../basicfeatures.md:157
+msgid "![Capture d'écran de la page motif](./IMG/formoption.jpg)"
+msgstr "![Options page screenshot](./IMG/formoption.jpg)"
+
+#: ../../basicfeatures.md:159
+msgid "Section *Taille du papier*"
+msgstr "*Paper size* section"
+
+#: ../../basicfeatures.md:161
+msgid "Largeur Papier (mm)"
+msgstr "Paper Width (mm)"
+
+#: ../../basicfeatures.md:162
+msgid ""
+"cette valeur designe la largeur du papier utilisé.  Pour une BrailleRAP "
+"cette valeur est en génèrale fixée a 210 mm (A4). Pour une BrailleRAP XL "
+"cette valeur est en génèrale fixée a 297 mm (A3)."
+msgstr ""
+"This value indicates the width of the paper used. For a BrailleRAP, this "
+"value is generally set to 210 mm (A4). For a BrailleRAP XL, this value is"
+" generally set to 297 mm (A3)."
+
+#: ../../basicfeatures.md:165
+msgid "Hauteur Papier (mm)"
+msgstr "*Paper Height* (mm)"
+
+#: ../../basicfeatures.md:166
+msgid ""
+"cette valeur designe la hauteur du papier utilisé. Pour une BrailleRAP "
+"cette valeur est en génèrale fixée a 297 mm (A4). Pour une BrailleRAP XL "
+"cette valeur est en génèrale fixée a 420 mm (A3)."
+msgstr ""
+"This value indicates the height of the paper used. For a BrailleRAP, this"
+" value is generally set to 297 mm (A4). For a BrailleRAP XL, this value "
+"is generally set to 420 mm (A3)."
+
+#: ../../basicfeatures.md:169
+msgid "Largeur utile (mm)"
+msgstr "Usable width (mm)"
+
+#: ../../basicfeatures.md:170
+msgid ""
+"Cette valeur désigne la largeur du papier réellement utilisable pour "
+"l'embossage. Cette valeur est en génèrale fixée a 190 mm pour une "
+"BrailleRAP et a 297 mm pour une BrailleRAP XL."
+msgstr ""
+"This value indicates the usable width of the paper for embossing. This "
+"value is generally set to 190 mm for a BrailleRAP and 297 mm for a "
+"BrailleRAP XL."
+
+#: ../../basicfeatures.md:172
+msgid "Hauteur utile (mm)"
+msgstr "Usable height (mm)"
+
+#: ../../basicfeatures.md:173
+msgid ""
+"Cette valeur désigne la hauteur du papier réellement utilisable pour "
+"l'embossage. Cette valeur est en génèrale fixée a 260 mm pour une "
+"BrailleRAP et a 380 mm pour une BrailleRAP XL."
+msgstr ""
+"This value indicates the usable height of the paper for embossing. This "
+"value is generally set to 260 mm for a BrailleRAP and 380 mm for a "
+"BrailleRAP XL."
+
+#: ../../basicfeatures.md:175
+msgid "Section BrailleRAP"
+msgstr "*BrailleRAP* section"
+
+#: ../../basicfeatures.md:178
+msgid "Distance entre points sur les chemins (mm)"
+msgstr "Step delta along path (mm)"
+
+#: ../../basicfeatures.md:179
+msgid ""
+"Cette valeur désigne la distance **minimale** entre deux points lors de "
+"l'embossage des graphiques. Cette valeur est en génèrale fixée a 2.4 mm. "
+"Vous pouvez augmentez ou diminuer cette valeur pour rapprocher ou écarter"
+" les points sur les graphiques. Ce paramètre n'a aucune incidence sur "
+"l'écartement des **points Braille**."
+msgstr ""
+"This value indicates the **minimum** distance between two points during "
+"the embossing of the graphics. This value is generally set to 2.4 mm. You"
+" can increase or decrease this value to bring closer or separate the "
+"points on the graphics. This parameter has no impact on the spacing of "
+"**Braille points**."
+
+#: ../../basicfeatures.md:181
+msgid "Optimisation pour matériaux facile"
+msgstr "Path optimization for easy materials"
+
+#: ../../basicfeatures.md:182
+msgid ""
+"Cette option permet d'optimiser l'embossage des graphiques pour les "
+"matériaux faciles.  Si l'option n'est pas activée on s'interdit de faire "
+"reculer le papier dans la BrailleRAP lors de l'embossage. Ceci évite des "
+"aller/retours qui peuvent être à l'origine de décalage quand on utilise "
+"des matériaux \"glissant\" comme le plastique ou le métal. Si l'option "
+"est activée on autorise le recul du papier dans la BrailleRAP lors de "
+"l'embossage. Ceci permet d'optimiser légérement le parcours du pointeau "
+"Braille sur la feuille et permet d'aller plus vite."
+msgstr ""
+"This option allows you to optimize the embossing of the graphics for easy"
+" materials. If the option is not enabled, we prohibit the paper from "
+"moving back in the BrailleRAP during embossing. This prevents back-and-"
+"forth movements that can be the cause of misalignments when using "
+"\"slippery\" materials such as plastic or metal. If the option is "
+"enabled, we allow the paper to move back in the BrailleRAP during "
+"embossing. This slightly optimizes the path of the Braille stylus on the "
+"paper and allows you to go faster."
+
+#: ../../basicfeatures.md:186
+msgid "Vitesse (mm/s)"
+msgstr "Speed (mm/s)"
+
+#: ../../basicfeatures.md:187
+msgid ""
+"Cette valeur désigne la vitesse de déplacement maximale du pointeau "
+"Braille et du papier. Suivant la précision de la mécanique, les drivers "
+"moteurs utilisés la référence de la carte électronique, et la nature du "
+"support embossé, vous pouvez modifier ces réglages."
+msgstr ""
+"This value indicates the maximum speed of Braille stylus and paper. "
+"Depending on the mechanics quality, the motor drivers used, the reference"
+" of the electronic card, and the nature of the embossed support, you can "
+"modify these settings."
+
+#: ../../basicfeatures.md:189
+msgid ""
+"Pour les matériaux difficiles et glissant, on utilisera plutôt une "
+"vitesse basse entre 800 et 1500 mm/s. Pour du papier, avec un controleur "
+"8 bits (MKS GEN L) et des drivers 8825 vous pouvez monter jusqu'a 6000 "
+"mm/s."
+msgstr ""
+"For difficult and slippery materials, we will rather use a low speed "
+"between 800 and 1500 mm/s. For paper, with an 8-bit controller (MKS GEN "
+"L) and 8825 drivers, you can go up to 6000 mm/s."
+
+#: ../../basicfeatures.md:192
+msgid "Accélération (mm/s²)"
+msgstr "Acceleration (mm/s²)"
+
+#: ../../basicfeatures.md:193
+msgid ""
+"Cette valeur désigne l'accélération maximale du pointeau Braille et du "
+"papier. Suivant la précision de la mécanique, les drivers moteurs "
+"utilisés la référence de la carte électronique, et la nature du support "
+"embossé, vous pouvez modifier ces réglages."
+msgstr ""
+"This value indicates the maximum acceleration of the Braille stylus and "
+"paper. Depending on the precision of the mechanics, the motor drivers "
+"used, the reference of the electronic card, and the nature of the "
+"embossed support, you can modify these settings."
+
+#: ../../basicfeatures.md:195
+msgid ""
+"Pour les matériaux difficiles et glissant, on utilisera plutôt une "
+"accélération basse entre 1000 et 2000 mm/s². Pour du papier, avec un "
+"controleur 8 bits, une mécanique irréprochable et des drivers TMC vous "
+"pouvez monter jusqu'a 8000 mm/s²."
+msgstr ""
+"For difficult and slippery materials, we will rather use a low "
+"acceleration between 1000 and 2000 mm/s². For paper, with an 8-bit "
+"controller, impeccable mechanics and TMC drivers, you can go up to 8000 "
+"mm/s²."
+
+#: ../../basicfeatures.md:198
+msgid "Port de communication"
+msgstr "Communication port"
+
+#: ../../basicfeatures.md:199
+msgid ""
+"Cette valeur désigne le port de communication utilisé pour la "
+"communication avec la BrailleRAP. Si vous avez branché la BrailleRAP "
+"après le lancement du logiciel, vous pouvez rafraichir la liste des ports"
+" de communication disponible en utilisant le bouton *Actualiser*."
+msgstr ""
+"This value indicates the communication port used to communicate with the "
+"BrailleRAP. If you have connected the BrailleRAP after launching the "
+"software, you can refresh the list of available communication ports by "
+"using the *Refresh* button."
+
+#: ../../basicfeatures.md:201
+msgid "Section Braille"
+msgstr "*Braille* section"
+
+#: ../../basicfeatures.md:203
+msgid "Table Braille"
+msgstr "Braille table"
+
+#: ../../basicfeatures.md:204
+msgid ""
+"Cette section permet de définir le standard utilisé pour la transcription"
+" du texte en Braille. **Attention** il existe parfois plusieurs standard "
+"Braille pour la même langue (3 en Français par exemple) et ce paramêtres "
+"est indépendant de la langue de l'interface. Vous pouvez par exemple "
+"utiliser DesktopBrailleRAP en Français et transcrire le Braille au "
+"standard Anglais si les lecteurs du document utilisent ce standard "
+"Braille."
+msgstr ""
+"This section allows you to define the standard used to transcribe text to"
+" Braille. **Warning** there are sometimes several Braille standards for "
+"the same language (3 in French for example) and this parameter is "
+"independent of the interface language. For example, you can use "
+"DesktopBrailleRAP in French and transcribe Braille to the English "
+"standard if the document readers use this Braille standard."
+
+#: ../../basicfeatures.md:206
+msgid "Section Application"
+msgstr "*Application* section"
+
+#: ../../basicfeatures.md:208
+msgid "Langue de l'application"
+msgstr "Application language"
+
+#: ../../basicfeatures.md:209
+msgid ""
+"Cette valeur désigne la langue utilisée pour l'interface de "
+"l'application. Elle n'a aucune incidence sur la transcription du texte en"
+" Braille."
+msgstr ""
+"This value indicates the language used for the application interface. It "
+"has no incidence on the text transcription into Braille."
+
+#: ../../basicfeatures.md:214
+msgid ""
+"L'action de cliquer sur le menu *Données* affiche une page relative a "
+"l'affichage des données de la composition. Vous y trouverez un affichage "
+"sous forme d'arbre qui reprend l'ensemble des élements de la composition."
+msgstr ""
+"Clicking on the *Data* menu displays a page related to the display of the"
+" composition data. You will find an under the form of a tree that "
+"reproduces all the elements of the composition."
+
+#: ../../basicfeatures.md:216
+msgid "![Capture d'écran de la page motif](./IMG/formdata.jpg)"
+msgstr "![Screenshot of the data page](./IMG/formdata.jpg)"
+
+#: ../../basicfeatures.md:218
+msgid "Automatisation des traitements"
+msgstr "Automatisation"
+
+#: ../../basicfeatures.md:222
+msgid ""
+"Il est possible d'automatiser le fonctionnement de DesktopBrailleRAP en "
+"utilisant des variables d'environnement."
+msgstr "You can automate some process with environment variable."
+
+#: ../../basicfeatures.md:224
+msgid "Variables d'environnement"
+msgstr "Environment variables"
+
+#: ../../basicfeatures.md
+msgid "Variable"
+msgstr "Variable"
+
+#: ../../basicfeatures.md
+msgid "Valeur"
+msgstr "Value"
+
+#: ../../basicfeatures.md
+msgid "Description"
+msgstr "Description"
+
+#: ../../basicfeatures.md
+msgid "DESKTOPBRAP_PATTERNS_PATH"
+msgstr "DESKTOPBRAP_PATTERNS_PATH"
+
+#: ../../basicfeatures.md
+msgid "/home/machin/patterns.json"
+msgstr "/home/machin/patterns.json"
+
+#: ../../basicfeatures.md
+msgid "Chemin complet du fichier de correspondance couleurs/motifs"
+msgstr "Full pathname of json file with pattern / color association"
+
+#: ../../basicfeatures.md
+msgid "DESKTOPBRAP_SVG_PATH"
+msgstr "DESKTOPBRAP_SVG_PATH"
+
+#: ../../basicfeatures.md
+msgid "/home/machin/machin.svg"
+msgstr "/home/machin/machin.svg"
+
+#: ../../basicfeatures.md
+msgid "Chemin complet du fichier SVG à charger au démarrage de l'application"
+msgstr "Full path of SVG file to load at app startup"
+
+#: ../../basicfeatures.md
+msgid "DESKTOPBRAP_DIRECT_PRINT"
+msgstr "DESKTOPBRAP_DIRECT_PRINT"
+
+#: ../../basicfeatures.md
+msgid "\"true\""
+msgstr "\"true\""
+
+#: ../../basicfeatures.md
+msgid "Drapeau pour indiquer si le document doit  être imprimer directement"
+msgstr "Flag to immediate output the loaded file on BrailleRAP"
+
+#: ../../basicfeatures.md:233
+msgid "Utilisation sous windows"
+msgstr "Usage under Windows"
+
+#: ../../basicfeatures.md:238
+msgid "Utilisation sous Linux (ici Docker)"
+msgstr "Usage under Linux (here Docker)"
+
+#~ msgid ""
+#~ "L'action de cliquer sur le menu "
+#~ "*Imprimer* affiche une page relative a"
+#~ " l'association de motifs tactiles avec "
+#~ "une couleur de remplissage ou une "
+#~ "couleur de contour."
+#~ msgstr "Clicking on the *Print* menu displays a page related to "

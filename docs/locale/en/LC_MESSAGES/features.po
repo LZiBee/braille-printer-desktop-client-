@@ -1,0 +1,68 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-09 19:21+0000\n"
+"PO-Revision-Date: 2025-05-31 22:07+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"desktopbraillerap_doc/manual_features/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../features.md:1
+msgid "Fonctionalités"
+msgstr "Features"
+
+#: ../../features.md:3
+msgid "Les principales fonctionnalités de DesktopBrailleRAP sont:"
+msgstr "DesktopBrailleRAP's main features are:"
+
+#: ../../features.md:4
+msgid "Importer des images au format SVG"
+msgstr "Import SVG images"
+
+#: ../../features.md:5
+msgid "Ajouter des blocs d'annotation en Braille"
+msgstr "Add text blocks in Braille"
+
+#: ../../features.md:6
+msgid "Déplacer, orienter, redimensionner les graphiques importés."
+msgstr "Move, rotate, scale imported graphics."
+
+#: ../../features.md:7
+msgid "Déplacer, orienter les blocs d'annotation en Braille."
+msgstr "Move, rotate Braille text blocks."
+
+#: ../../features.md:8
+msgid "Sauvegarder une composition."
+msgstr "Save a composition."
+
+#: ../../features.md:9
+msgid "Charger une composition."
+msgstr "Load a composition."
+
+#: ../../features.md:10
+msgid ""
+"Attribuer des motifs de points Braille pour le remplissage des aplats de "
+"couleurs."
+msgstr ""
+"Assign Braille dot patterns for the filling of color patches."
+
+#: ../../features.md:11
+msgid "Attribuer des motifs de lignes à des couleurs de lignes."
+msgstr "Assign Braille dot patterns to line colors."
+
+#: ../../features.md:12
+msgid "Embosser (imprimer) une composition sur une BrailleRAP connectée en USB."
+msgstr "Emboss (print) a composition on a USB connected BrailleRAP."
